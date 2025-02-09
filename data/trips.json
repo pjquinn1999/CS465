@@ -1,6 +1,6 @@
 [
     {
-        "code": "GALR20240214",
+        "code": "GALR210214",
         "name" : "Gale Reef",
         "image" : "reef1.jpg",
         "length": "4 nights / 5 days",
@@ -9,7 +9,7 @@
         "perPerson": "799.00",
         "description": "<p> Gale Reef Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis. </p> <p> Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet. </p>"
     }, {
-        "code": "DAWR20240315",
+        "code": "DAWR210315",
         "name" : "Dawson's Reef",
         "length": "4 nights / 5 days",
         "start": "2024-03-15T08:00:00Z",
@@ -18,7 +18,7 @@
         "image" : "reef2.jpg",
         "description": "<p> Dawson's Reef Integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elementum sit amet aliquet quis, tristique quis nisl. Curabitur odio lacus, blandit ut hendrerit </p> <p> vulputate, vulputate at est. Morbi aliquet viverra metus eu consectetur. In lorem dui, elementum sit amet convallis ac, tincidunt vel sapien. </p>"
     }, {
-        "code": "CLAR20240621",
+        "code": "CLAR210621",
         "name": "Claire's Reef",
         "length": "4 nights / 5 days",
         "start": "2024-06-21T08:00:00Z",
